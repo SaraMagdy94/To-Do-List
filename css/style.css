@@ -151,6 +151,5 @@ input {
 }
 .addBtn:hover {
   background-color: #bbb;
-   transition: 0.8s;
-
+  transition: 0.8s;
 }
