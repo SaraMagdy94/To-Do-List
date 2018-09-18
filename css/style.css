@@ -64,7 +64,8 @@ ul li.checked {
   background: #6eafe7;
   color: #fff;
   text-decoration: line-through;
-  margin-right: 40px
+  margin-right: 40px;
+  margin-bottom: 5px
 }
 
 /* Add a "checked" mark when clicked on */
@@ -151,5 +152,6 @@ input {
 }
 .addBtn:hover {
   background-color: #bbb;
-  transition: 0.8s;
+   transition: 0.8s;
+
 }
