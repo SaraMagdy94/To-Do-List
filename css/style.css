@@ -64,7 +64,7 @@ ul li.checked {
   background: #6eafe7;
   color: #fff;
   text-decoration: line-through;
-
+  margin-right: 40px
 }
 
 /* Add a "checked" mark when clicked on */
